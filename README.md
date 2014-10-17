@@ -1,4 +1,3 @@
 SampleRepository
 ================
-
-sample repository to a get a feel of git
+This is a sample project just to get a feel of GIT.
